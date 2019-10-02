@@ -1,4 +1,4 @@
 Oh hey hi
-<p><b>Just testing</b></p>
+<p><i><b>Just testing</b></i></p>
 <p><b><u> Class Notes</u></b></p>
 <p>
